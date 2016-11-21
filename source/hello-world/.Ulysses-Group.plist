@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>hello-world</string>
+	</array>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>hello-world</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>497234826.772291</real>
+				<key>lastModification</key>
+				<real>497234826.772291</real>
+				<key>version</key>
+				<dict>
+					<key>322df292cf076cced7bc610c59fba63da22485ca7335f9f69cb0e003173290de</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>index - 2.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>497234815.08413601</real>
+				<key>lastModification</key>
+				<real>497234815.08413601</real>
+				<key>version</key>
+				<dict>
+					<key>322df292cf076cced7bc610c59fba63da22485ca7335f9f69cb0e003173290de</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>index.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>497235163.008582</real>
+				<key>version</key>
+				<dict>
+					<key>322df292cf076cced7bc610c59fba63da22485ca7335f9f69cb0e003173290de</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>index - 2.md</string>
+		</array>
+		<array>
+			<string>index.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>322df292cf076cced7bc610c59fba63da22485ca7335f9f69cb0e003173290de</key>
+			<integer>6</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>322df292cf076cced7bc610c59fba63da22485ca7335f9f69cb0e003173290de</key>
+			<integer>9</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
